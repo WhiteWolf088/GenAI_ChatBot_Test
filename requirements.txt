@@ -3,3 +3,5 @@ pandas
 PyPDF2
 python-docx
 openpyxl
+google-generativeai
+numpy
